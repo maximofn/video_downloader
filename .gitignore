@@ -1,0 +1,13 @@
+*.wav
+*.mp3
+*.mp4
+*.md
+*.json
+*.srt
+*.tsv
+*.vtt
+git_*.sh
+pretrained_models
+audio_cache
+*.png
+*.webp
